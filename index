@@ -45,7 +45,7 @@
 
 <script src="./jsmpeg-player.umd.js"></script>
 <script>
-  const videoUrl = 'http://medyacnn.club:8080/live/akinci2/5798003361/5395.ts';
+  const videoUrl = 'http://xtratexxx.dimapro.xyz:8080/cmsupro/kPwO1mKiZZ/88040';
 
   const video = new JSMpeg.VideoElement('#videoWrapper', videoUrl, {
     poster: 'https://cycjimmy.github.io/staticFiles/images/screenshot/big_buck_bunny_640x360.jpg'
